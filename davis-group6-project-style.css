@@ -1,0 +1,170 @@
+body {
+	background-color:#eee;
+	font-family:"Times New Roman", Arial, Georgia;
+}
+
+.container {
+	background-color:white;
+	width:840px;
+	padding:20px;
+	margin: 0 auto;
+}
+
+header {
+	background-color:#FFA500;
+	color:white;
+	text-align:center;
+	padding:5px;
+	margin-bottom:15px;
+}
+
+header h1 {
+	color:white;
+}
+
+header h2 {
+	color:white;
+}
+
+aside {
+	float:left;
+}
+
+nav {
+	width:150px;
+	float:left;
+	padding-right:25px;
+}
+
+nav ul {
+	list-style-type:none;
+	padding:0;
+	font-size:100%;
+}
+
+a {
+	text-decoration:none;
+	color:#FFA500
+}
+
+p {
+	color:#FFA500;
+}
+
+img {
+	border:2px solid #FFA500;
+	width:140px;
+}
+
+h1, h2 {
+	color:#A36A00;
+}
+
+h3 {
+	color:#EEE8AA;
+}
+
+table, th, td {
+	padding:10px;
+	border:2px solid black;
+}
+
+thead {
+	background-color:#A36A00;
+	color:white;
+}
+
+tbody {
+	color:black;
+}
+
+tfoot {
+	font-weight:bold;
+	font-size:75%;
+	color:black;
+	background-color:white;
+}
+
+caption {
+	font-family:Arial, Georgia, "Times New Roman";
+	font-size:100%;
+	font-weight:bold;
+	color:black;
+	border:1px solid black;
+}
+
+Legend {
+	background-color:#A36A00;
+	color:white;
+	font-family:Arial, Georgia, "Times New Roman";
+	display:block;
+	font-size:110%;
+}
+
+ul {
+	list-style-type:none;
+	padding:0;
+	border:2px solid #FFA500;
+}
+
+li {
+	border:1px solid black;
+	padding:0;
+	color:#FFA500;
+}
+
+li + li {
+	padding-top:10px;
+}
+
+Label {
+	font-family:"Times New Roman", Arial, Georgia;
+}
+
+footer {
+	text-align:center;
+	font-size:125%;
+	background-color:#FFA500;
+	color:white;
+	padding:10px;
+	clear:both;
+	margin-top:30px;
+	padding:10px;
+}
+
+.alignment fieldset {
+	margin-bottom:30px;
+}
+
+.dlc {
+	margin-bottom:280px;
+}
+
+.dlctable {
+	float:left;
+	margin-left:30px;
+	height:140px;
+	width:220px;
+}
+
+.ticketstable {
+	float:left;
+	width:220px;
+	margin-left:30px;
+}
+
+.finish button {
+	background-color:#A36A00;
+	color:white;
+	font-family:Arial, Georgia, "Times New Roman";
+	font-size:150%;
+}
+
+.footercolor {
+	padding:10px;
+	color:white;
+}
+
+.about {
+	padding:0 10px 0 0;
+}
